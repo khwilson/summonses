@@ -26,7 +26,7 @@ setup(
     keywords = "example data-analysis nyc",
     url = "https://github.com/khwilson/summonses",
     packages=['summonses'],
-    long_description=open('README.rst', 'r').read(),
+    long_description=open('README.md', 'r').read(),
     install_requires=open('requirements.txt', 'r').readlines(),
     tests_require=['pytest'],
     cmdclass={'test': PyTest}
