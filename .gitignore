@@ -14,3 +14,12 @@ htmlcov
 
 # Sphinx
 docs/_build
+
+# Macs
+.DS_Store
+
+# vim
+.*.swp
+
+# ipython
+.ipynb_checkpoints/
