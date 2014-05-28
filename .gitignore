@@ -21,5 +21,8 @@ docs/_build
 # vim
 .*.swp
 
+# emacs
+*~
+
 # ipython
 .ipynb_checkpoints/
