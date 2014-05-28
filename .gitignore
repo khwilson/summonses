@@ -1,0 +1,16 @@
+*.py[cod]
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+htmlcov
+
+# Sphinx
+docs/_build
